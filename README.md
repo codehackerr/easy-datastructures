@@ -1,1 +1,1 @@
-# nuggets
+# Collection of programming concepts
